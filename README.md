@@ -4,7 +4,7 @@
 Done practice the example in https://github.com/mjhea0/flaskr-tdd
 
 ## Part 2: Add test cases to your group project
-The link to the test cases: 
+The link to the test cases: https://github.com/ECE444-2020Fall/project1-webapp-group14-nullpointers/blob/master/test/app_test.py
 
 ## Part 3: What are the pros and cons of TDD?
 ### Pros of Test Driven Development:
