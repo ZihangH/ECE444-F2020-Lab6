@@ -1,5 +1,11 @@
 # ECE444-F2020-Lab6
 
+## Part 1: Replay the example
+Done practice the example in https://github.com/mjhea0/flaskr-tdd
+
+## Part 2: Add test cases to your group project
+The link to the test cases: 
+
 ## Part 3: What are the pros and cons of TDD?
 ### Pros of Test Driven Development:
 - Better architecture: In TDD, your code need to have a good architecture. If we want our code to be unit-testable, it must be properlu modularized.
