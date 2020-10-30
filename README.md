@@ -3,6 +3,8 @@
 ## Part 1: Replay the example
 Done practice the example in https://github.com/mjhea0/flaskr-tdd
 
+![alt text](https://github.com/ZihangH/ECE444-F2020-Lab6/blob/main/Screenshot.jpg)
+
 ## Part 2: Add test cases to your group project
 The link to the test cases: https://github.com/ECE444-2020Fall/project1-webapp-group14-nullpointers/blob/master/test/app_test.py
 
